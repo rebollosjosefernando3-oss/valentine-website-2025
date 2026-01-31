@@ -1,4 +1,3 @@
-// Basic Information
 valentineName: "China"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
