@@ -1,5 +1,5 @@
-valentineName: "China"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+valentineName: "Raul Lauresta"                    // Your Valentine's name
+pageTitle: "Will You Be My Wife? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
@@ -21,7 +21,7 @@ questions: {
         nextBtn: "Next ❤️"                         // Next button text
     },
     third: {
-        text: "Will you be my Valentine...?",      // Final question
+        text: "Will you be my Wife...?",      // Final question
         yesBtn: "Yes!",                            // Yes button text
         noBtn: "No"                                // No button text
     }
